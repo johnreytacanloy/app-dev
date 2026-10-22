@@ -47,6 +47,7 @@ I recommend *Attack on Titan* because it has an engaging storyline, memorable ch
 | Original manga publication | 2009–2021 |
 
 ## Official Information
+This repository is part of my Application Development activity.
 
 Learn more about the series on the [official Attack on Titan anime website](https://shingeki.tv/).
 
